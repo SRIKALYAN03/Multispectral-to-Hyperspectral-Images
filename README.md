@@ -9,7 +9,7 @@ This project provides a solution to [briefly describe what the project does, e.g
 [Brief description, e.g., utilizes a pre-trained U-Net model to convert images].
 **Feature 3:** 
 [Brief description, e.g., outputs high-resolution hyperspectral images for analysis].
-**Requirements**
+**Requirements:**
 Python 3.7+
 Required Libraries:
 torch: For deep learning and loading models.
